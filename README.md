@@ -1,5 +1,5 @@
 # messenger-restful-api-jersey-jaxrs
-This is an implementation of RESTful web-services for a messenger application using Java, JAX-RS, Jersey, JAXB. 
+This is an implementation of RESTful web-services for a messenger application contains Message, Profile, and Comment web-service using Java, JAX-RS, Jersey, JAXB. 
 
 Topics covered: Paging, Exception Handling and HATEOAS, etc. 
 Annotations used: @Path, @PathParam, @Produce, @Consume, @GET, @PUT, @DELETE, @POST, @Context, @XmlRootElement, @XmlTransient, @MatrixParam, @HeaderParam, @CookieParam, @BeanParam and @QueryParam. 
